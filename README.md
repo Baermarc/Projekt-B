@@ -1,4 +1,4 @@
 # Projekt-B
 
-Beschreibung für mein Projekt
-Test Test Test
+Mein Name ist Marc Bär
+Dies ist ein erfolgreicher Test
